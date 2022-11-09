@@ -1,0 +1,5 @@
+charset,UTF-8
+type,shell
+name,文化祭
+directory,cultural-festival
+accept,テーブル
